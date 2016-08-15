@@ -1,0 +1,14 @@
+layout_spectrum: 0.24007081356830895
+typography_spectrum: 0.4711853901389986
+color:
+  brandStrength: 0.3719836787786335
+  lightness: 0.9066639449447393
+  saturation: 0.2179588763974607
+  rhythmicContrast: 0.005912847118452191
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: kveec.com
